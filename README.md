@@ -6,7 +6,7 @@ The Isabelle Bootstrapper is an open-sourced Bootstrapper that automatically dow
 Pull requests always are welcome. For major changes, please let me me know on Discord (Azurilex#0001).
 
 ## License
-[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
 
 ### Contact Me
 - Discord - Azurilex#0001

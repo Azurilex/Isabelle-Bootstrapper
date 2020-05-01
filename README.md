@@ -1,4 +1,4 @@
-# Isabelle Bootstrapper
+# Isabelle Bootstrapper (C++ 17)
 
 The Isabelle Bootstrapper is an open-sourced Bootstrapper that automatically downloads file updates if a new version is found. Designed by myself- Azurilex, it takes advantage of the libcurl library for C / C++ to make web requests. I always want to help people learn, so the code has been completely commented that explains how it functions.
 
